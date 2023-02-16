@@ -9,4 +9,7 @@ dist
 /credentials.py
 
 # ignore folders:
-text/
+# text/
+
+# ignore one type of file in a folder:
+text/*.txt
